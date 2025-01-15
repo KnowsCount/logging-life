@@ -7,7 +7,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="font-semibold text-2xl mb-8 tracking-tighter">Chinese Underground Church</h1>
-      <a href="https://youtu.be/abWNnHAeO-Q">https://youtu.be/abWNnHAeO-Q</a>
+      <a href="">As per new request from the interviewees, this documentary may only be played privately to limited audience. My apologies.</a>
       <br /><br /><br /><br />
       <h1 className="font-semibold text-2xl mb-8 tracking-tighter">Shanghai Street Poetry Open Mic</h1>
       <a href="https://youtu.be/hFx4M6Ud94c">https://youtu.be/hFx4M6Ud94c</a>
